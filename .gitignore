@@ -1,0 +1,27 @@
+# Ignore class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Maven or Gradle build folders (if you use them)
+target/
+out/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system files
+Thumbs.db
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
